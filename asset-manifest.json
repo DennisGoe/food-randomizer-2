@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-randomizer-2/static/css/main.073c9b0a.css",
+    "main.js": "/food-randomizer-2/static/js/main.209e6a65.js",
+    "static/js/787.bfa26c48.chunk.js": "/food-randomizer-2/static/js/787.bfa26c48.chunk.js",
+    "index.html": "/food-randomizer-2/index.html",
+    "main.073c9b0a.css.map": "/food-randomizer-2/static/css/main.073c9b0a.css.map",
+    "main.209e6a65.js.map": "/food-randomizer-2/static/js/main.209e6a65.js.map",
+    "787.bfa26c48.chunk.js.map": "/food-randomizer-2/static/js/787.bfa26c48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.209e6a65.js"
+  ]
+}
